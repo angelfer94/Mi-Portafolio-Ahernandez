@@ -1,0 +1,29 @@
+# Ignorar archivos fuera del proyecto
+**/.bash_history
+**/.cache/
+**/.config/
+**/.gitconfig
+**/.ionic/
+**/.lesshst
+**/.smvcomponent/
+**/.viminfo
+**/.vscode/
+**/AppData/
+**/Contacts/
+**/Creative Cloud Files/
+**/Documents/
+**/Downloads/
+**/Favorites/
+**/IntelGraphicsProfiles/
+**/Links/
+**/Music/
+**/OneDrive/
+**/Pictures/
+**/Saved Games/
+**/Searches/
+**/Tracing/
+**/Videos/
+
+# Otros archivos específicos que puedas querer ignorar
+**/NTUSER.DAT*
+**/*.log
